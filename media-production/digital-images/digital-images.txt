@@ -1,3 +1,0 @@
-====== Digital Images ======
-
-  * [[media-production:digital-images:lab-scanners|Using the Multimedia Lab Scanners]]

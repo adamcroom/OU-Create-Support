@@ -1,9 +1,0 @@
-{{indexmenu_n>7}}
-
-====== GEOG 410W: Revanchist City / Rebel City ======
-
-{{page>domain-of-ones-own:general:choosing-a-domain-name}}
-{{page>domain-of-ones-own:general:signing-up-on-domain-of-one-s-own}}
-{{page>other-software-tools:omeka:installing-omeka}}
-
-{{page>course-tutorials:umw-domains-tutorials:revanchist-city-rebel-city:map-tools}}

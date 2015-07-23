@@ -1,3 +1,0 @@
-====== Advanced Topics ======
-
-{{namespace>wordpress:advanced-topics}}

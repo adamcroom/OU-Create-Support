@@ -1,6 +1,0 @@
-{{indexmenu_n>6}}
-
-====== Omeka ======
-
-  * [[other-software-tools:omeka:Installing Omeka]]
-  

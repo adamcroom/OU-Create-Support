@@ -1,0 +1,17 @@
+====== Map Your Domain to Tumblr ======
+
+
+Mapping your domain is an important part of create.ou.edu; it reinforces the idea that you don't necessary need to host all your own applications. You should, however, be mindful of making your web presences part of a domain you control. If you would like to map a subdomain and have not yet created it, use [[http://create.ou.edu/support/cpanel/creating-subdomains|this tutorial on creating subdomains]] before proceeding. To map your domain, or a subdomain, to Tumblr, use these steps:
+
+1. To get started you'll need to login to your control panel by going to the create.ou.edu homepage and logging in. {{ :domain-management:create.ou.edu-.jpg?nolink |}}
+2. Here you'll login with you OUNetID (4x4) and password. {{ :domain-management:login.jpg?nolink |}}
+3. Once logged in you'll be at the homepage of your control panel. The easiest way to navigate the panel is using the search feature in the top right panel. Click the **Search box** and type "DNS" (without the quotes). As you type, the cPanel page will begin to narrow down results. Find and click on **Advanced DNS Zone Editor** to continue. {{ :domain-management:dns_zone_editor.png?nolink |}}
+4. Find the domain, or subdomain, you want to map to Tumblr in the list of **Zone File Records**. Under the **Action** column, click **Edit**. {{ :domain-management:tumblr_domain_edit.png?nolink |}}
+5. Leave the Name, and TTL fields set to their defaults. Update the **Type** drop-down menu to **CNAME**, and the **Address** field to **domains.tumblr.com**. Click **Edit Record** when you are done. {{ :domain-management:edit_record.png?nolink |}}
+6. Visit the Tumblr website, and login with your Tumblr username and password. {{ :domain-management:tumblr.png?nolink |}}
+7. After logging in, click the Tumblr **Settings** icon. {{ :domain-management:tumblr_settings.png?nolink |}}
+8. For the Tumblog you'd like to use under the **Username** click the pencil icon to edit these settings. {{ :domain-management:tumblr_domain_1.png?nolink |}}
+9. Check the **Use a custom domain** checkbox. Type the name of the domain or subdomain you want to map to Tumblr into the box, then click **Test your domain**. {{ :domain-management:tumblr_domain_2.png?nolink |}}
+10. If your domain mapping was successful, you'll see a message that your domain is now pointing to Tumblr. Click the **Save** button before leaving the page. Keep in mind that it may take up to 72 hours for your domain or subdomain to correctly point all visitors to the correct location. {{ :domain-management:tumblr_domain_3.png?nolink |}}
+
+{{indexmenu_n>4}}

@@ -1,7 +1,0 @@
-{{indexmenu_n>5}}
-
-====== Mediawiki ======
-
-  * [[other-software-tools:mediawiki:Installing Mediawiki]]
-  * [[other-software-tools:mediawiki: Managing Permissions]]
-

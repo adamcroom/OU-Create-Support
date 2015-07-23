@@ -1,9 +1,0 @@
-{{indexmenu_n>5}}
-
-====== Mapping a Domain ======
-
-To map a domain, click on "Tools" on the left sidebar, then when the sub menu opens click "Domain Mapping."
-
-{{https://farm4.staticflickr.com/3954/15585144402_118ce97993_o_d.png}}
-
-On the new page that opens up you can add subdomains. After you create subdomains you can see all of them.
